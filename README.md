@@ -1,6 +1,6 @@
 # Steam's Cloudflare Link Bypasser
 
-Chrome/Opera GX extension that replaces `community.fastly.steamstatic.com` links with `steamcommunity.com` on Steam badge pages.
+Chrome/Chromemium extension that replaces `community.fastly.steamstatic.com` links with `steamcommunity.com` on Steam badge pages.
 
 ## Features
 - Rewrites fastly CDN links to the official Steam domain.
