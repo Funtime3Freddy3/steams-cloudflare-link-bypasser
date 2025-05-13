@@ -2,18 +2,18 @@
 
 Chrome/Opera GX extension that replaces `community.fastly.steamstatic.com` links with `steamcommunity.com` on Steam badge pages.
 
-## ✨ Features
+## Features
 - Rewrites fastly CDN links to the official Steam domain.
 - Adds a stylish popup credit screen.
 - Works on dynamically loaded Steam content.
 
-## 📦 Install (Manually)
+## Install (Manually)
 1. Download or clone this repo.
 2. Go to `chrome://extensions/`
 3. Enable Developer Mode.
 4. Click “Load unpacked” and select the folder.
 
-## 🔒 Permissions
+## Permissions
 Only runs on `steamcommunity.com` pages.
 
 ## License
