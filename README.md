@@ -7,10 +7,6 @@ Chrome/Opera GX extension that replaces `community.fastly.steamstatic.com` links
 - Adds a stylish popup credit screen.
 - Works on dynamically loaded Steam content.
 
-## 👨‍💻 Author
-**Funtime3Freddy3**  
-🌐 [https://funtime3freddy3.com](https://funtime3freddy3.com)
-
 ## 📦 Install (Manually)
 1. Download or clone this repo.
 2. Go to `chrome://extensions/`
